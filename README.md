@@ -13,10 +13,10 @@ I'm Raumil Dhandhukia, a Software Developer / Full Stack Developer based in Unit
 ## Examples of Work:
 
 <div align="center">
-<a href="https://nextnotes-omega.vercel.app/" style="margin-right: 20px;">
+<a href="https://nextnotes-omega.vercel.app/" >
  <img src="https://github.com/raumildhandhukia/raumildhandhukia/assets/72497060/0d2c0bea-e843-4419-83fc-a625ab806615" width="250">
 </a>
-<a href="https://raumild.com" style="margin-right: 20px;">
+<a href="https://raumild.com" >
  <img src="https://github.com/raumildhandhukia/raumildhandhukia/assets/72497060/9cd6828c-4896-4b25-9846-23d9db6e683d" width="250">
  </a>
  <a href="(https://simmer.io/@raumild/day-z-survival)">
@@ -27,11 +27,11 @@ I'm Raumil Dhandhukia, a Software Developer / Full Stack Developer based in Unit
   ## My GitHub Stats:
 
  <div align=center>
-  <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raumildhandhukia&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=750 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raumildhandhukia&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
    <br/>
-  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=raumildhandhukia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=750 src="https://github-readme-stats-salesp07.vercel.app/api?username=raumildhandhukia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=raumildhandhukia&hide=ShaderLab,HLSL&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=750 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=raumildhandhukia&hide=ShaderLab,HLSL&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raumildhandhukia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raumild/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raumildhandhukia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://raumild.com)  
