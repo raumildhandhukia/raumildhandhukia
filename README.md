@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=raumildhandhukia.visitor-badge&left_color=red&right_color=green&left_text=Views)
 
 ### Hi there 👋, I'm Raumil Dhandhukia
 #### Software Developer / Full Stack Developer/ iOS Developer
@@ -10,6 +11,7 @@ I'm Raumil Dhandhukia, a Software Developer / Full Stack Developer based in Unit
 - Next.js / React / React Native / Swift  / TypeScript / Node.js / Tailwind CSS
 
 ## Examples of Work:
+
 <div align="center">
 <a href="https://nextnotes-omega.vercel.app/" style="margin-right: 20px;">
  <img src="https://github.com/raumildhandhukia/raumildhandhukia/assets/72497060/0d2c0bea-e843-4419-83fc-a625ab806615" width="250">
@@ -21,6 +23,8 @@ I'm Raumil Dhandhukia, a Software Developer / Full Stack Developer based in Unit
  <img src="https://github.com/raumildhandhukia/raumildhandhukia/assets/72497060/4a2bca57-6e21-45fe-8f02-77f6fb3f3a56" width="250">
   </a>
   </div>
+
+  ## My GitHub Stats:
 
  <div align=center>
   <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raumildhandhukia&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
