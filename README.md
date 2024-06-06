@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Raumil Dhandhukia, a Software Developer / Full Stack Developer based in United States, and I make awesome web applications and iOS applications. I really enjoy coding, learning languages and frameworks like Next.js, React, React Native and Swift. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raumildhandhukia)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **raumildhandhukia/raumildhandhukia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
