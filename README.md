@@ -34,5 +34,4 @@ I'm Raumil Dhandhukia, a Software Developer / Full Stack Developer based in Unit
   <img width=750 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=raumildhandhukia&hide=ShaderLab,HLSL&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raumildhandhukia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raumild/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raumildhandhukia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://raumild.com)  
 
