@@ -1,8 +1,8 @@
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=raumildhandhukia.visitor-badge&left_color=red&right_color=green&left_text=Views)
 
 ### Hi there 👋, I'm Raumil Dhandhukia
-#### Software Developer / Full Stack Developer
-I'm Raumil Dhandhukia, a Software Developer / Full Stack Developer based in United States, and I make awesome web applications. I really enjoy coding, learning languages and frameworks like Next.js, React, React Native and Swift.
+#### Software Developer / Full Stack Developer / Python Developer
+I'm Raumil Dhandhukia, a Software Developer based in United States, and I make awesome web applications. I really enjoy coding, learning languages and frameworks like Next.js, React, React Native and Swift.
 
 - 🔭 I’m currently working on Job Application Tracker powered by AI
 - 🌱 I’m currently learning Swift
