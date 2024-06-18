@@ -4,7 +4,7 @@
 #### Software Developer / Full Stack Developer / Python Developer
 I'm Raumil Dhandhukia, a Software Developer based in United States, and I make awesome web applications. I really enjoy coding, learning languages and frameworks like Next.js, React, React Native and Swift.
 
-- 🔭 I’m currently working on Job Application Tracker powered by AI
+- 🔭 I’m currently working on an AI SaaS App
 - 🌱 I’m currently learning Swift
 
 ## Skills: 
