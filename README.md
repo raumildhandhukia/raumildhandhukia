@@ -2,14 +2,12 @@
 
 ### Hi there 👋, I'm Raumil Dhandhukia
 #### Software Developer / Full Stack Developer / Python Developer
-I'm Raumil Dhandhukia, a Software Developer based in United States, and I make awesome web applications. I really enjoy coding, learning languages and frameworks like Next.js, React, React Native and Swift.
+I'm Raumil Dhandhukia, a Software Developer based in United States, and I like to code.
 
-## Skills: 
-- Next.js / React / TypeScript / JavaScript / Node.js / Tailwind CSS
-- Python / Flask / Java / C#
+## Skills I gained along the way: 
+- React / TypeScript / JavaScript / Node.js / Next.js / Tailwind CSS
+- Python / FastAPI / Flask / Java / C#
 - MongoDB / PostgreSQL / MySQL / Prisma
-
-
 
 
   ## My GitHub Stats:
